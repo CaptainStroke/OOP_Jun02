@@ -76,7 +76,7 @@ public: // модификатор доступа, если не указать p
         else cout << "Is not hungry\n\n";
     }
 };
-
+ 
 int main()
 {
     Cat cat;
